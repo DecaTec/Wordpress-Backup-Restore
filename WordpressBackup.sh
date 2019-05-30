@@ -37,9 +37,6 @@ wordpressFileDir='/var/www/wordpress'
 # TODO: The service name of the web server. Used to start/stop web server (e.g. 'systemctl start <webserverServiceName>')
 webserverServiceName='nginx'
 
-# TODO: Your web server user
-webserverUser='www-data'
-
 # TODO: Your Wordpress database name
 wordpressDatabase='wordpress_db'
 
