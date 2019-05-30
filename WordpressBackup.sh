@@ -19,7 +19,7 @@
 # Variables
 backupMainDir=$1
 
-if [ -z "$backupMainDir" ]; then#
+if [ -z "$backupMainDir" ]; then
     # TODO: The directory where you store the Wordpress backups (when not specified by args)
     backupMainDir='/media/hdd/wordpress_backup'
 fi
