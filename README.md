@@ -1,3 +1,5 @@
+**Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wordpress-Backup-Restore**
+
 # Wordpress-Backup-Restore
 
 This repository contains two bash scripts for backup/restore of [Wordpress](https://wordpress.org).
