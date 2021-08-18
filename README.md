@@ -1,4 +1,6 @@
-**Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wordpress-Backup-Restore**
+### ⚠️ Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wordpress-Backup-Restore ⚠️
+
+Thus, this GitHub repository is **outdated** and **not longer maintained on GitHub**. Please update your references.
 
 # Wordpress-Backup-Restore
 
